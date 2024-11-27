@@ -23,7 +23,7 @@ https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
 http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 tvg-id="La_Verdad_Presente_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/La_Verdad_Presente_Tv.jpg" group-title="Religious",La Verdad Presente Tv
 https://stream.eleden.com/liveguadalajara/ngrp:liveguadalajara_all/playstream.m3u8
-#EXTINF:-1 tvg-id="UM_Tv" tvg-logo="https://stream.eleden.com/livealsad/ngrp:livealsad_all/playstream.m3u8" group-title="Religious",UM Tv
+#EXTINF:-1 tvg-id="ALSAD Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/ALSAD_Tv.png" group-title="Religious",ALSAD Tv
 https://stream.eleden.com/livealsad/ngrp:livealsad_all/playstream.m3u8
 #EXTINF:-1 tvg-id="UM_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/UM_Tv.png" group-title="Religious",UM Tv
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
@@ -39,5 +39,5 @@ https://videodelivery.net/75bc18929102141938b334b01793ca3e/manifest/video.m3u8
 https://stream.eleden.com/livemastv/ngrp:livemastv_all/playstream.m3u8
 #EXTINF:-1 tvg-id="Latino_GN_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/GNTV_Latino_Tv.bmp" group-title="Religious",Latino GN Tv
 https://stream.eleden.com/livemastv/ngrp:livemastv_all/playstream.m3u8
-#EXTINF:-1 tvg-id="Logos_Kids_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Kids_Tv.jpg" group-title="Religious",Logos_Kids_Tv
+#EXTINF:-1 tvg-id="Logos_Kids_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Kids_Tv.jpg" group-title="Religious",Logos Kids Tv
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
