@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SUM Tv" tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2018/05/SUMtv-Latino-Televisi%C3%B3n-Adventista-Canal-de-Esteban-Bohr-e1526064923389-570x292.jpg" group-title="General",SUM_Tv
+#EXTINF:-1 tvg-id="SUM Tv" tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2018/05/SUMtv-Latino-Televisi%C3%B3n-Adventista-Canal-de-Esteban-Bohr-e1526064923389-570x292.jpg" group-title="General",SUM Tv
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/chunklist_b1152000.m3u8
-#EXTINF:-1 tvg-id="3ABN_Latino" tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2013/03/3abn_Latino_-_logo.png" group-title="Religious",3ABN_Latino
+#EXTINF:-1 tvg-id="3ABN_Latino" tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2013/03/3abn_Latino_-_logo.png" group-title="Religious",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedAdvenir_Tv" tvg-logo="http://2.bp.blogspot.com/-OKmqiUDmncI/Tv920TTnlaI/AAAAAAAAAOc/w0O0cFWCanA/s1600/ADvenir.jpg" group-title="Religious",RedAdvenir_Tv
+#EXTINF:-1 tvg-id="RedAdvenir_Tv" tvg-logo="http://2.bp.blogspot.com/-OKmqiUDmncI/Tv920TTnlaI/AAAAAAAAAOc/w0O0cFWCanA/s1600/ADvenir.jpg" group-title="Religious",RedAdvenir Tv
 https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 tvg-id="Logos_Tv" tvg-logo="https://logostv.es/img/pwa/icon-96x96.png" group-title="Religious",Logos_Tv
+#EXTINF:-1 tvg-id="Logos_Tv" tvg-logo="https://logostv.es/img/pwa/icon-96x96.png" group-title="Religious",Logos Tv
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1 tvg-id="El_Tv" tvg-logo="https://eltelevision.org/wp-content/uploads/2022/11/logo-eltv.png" group-title="Religious",El_Tv
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
