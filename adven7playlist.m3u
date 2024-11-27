@@ -7,37 +7,37 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:-1 tvg-id="Logos_Tv" tvg-logo="https://logostv.es/img/pwa/icon-96x96.png" group-title="Religious",Logos Tv
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
-#EXTINF:-1 tvg-id="El_Tv" tvg-logo="https://eltelevision.org/wp-content/uploads/2022/11/logo-eltv.png" group-title="Religious",El_Tv
+#EXTINF:-1 tvg-id="El_Tv" tvg-logo="https://eltelevision.org/wp-content/uploads/2022/11/logo-eltv.png" group-title="Religious",El Tv
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
-#EXTINF:-1 tvg-id="Salvación_Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJzYikJXDUxmXimg3Cy8ngGdAKbY7Q-3AyViOg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Religious",Salvación_Tv
+#EXTINF:-1 tvg-id="Salvación_Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJzYikJXDUxmXimg3Cy8ngGdAKbY7Q-3AyViOg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Religious",Salvación Tv
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playstream.m3u8
-#EXTINF:-1 tvg-id="Tv_Nuevo_Tiempo" tvg-logo="http://1.bp.blogspot.com/-CK-PenDun1w/T0JMhKDAo3I/AAAAAAAAH8s/id1lVo-qDW8/s1600/Radio-Nuevo-Tiempo-Logo1.jpg" group-title="Religious",Tv_Nuevo_Tiempo
+#EXTINF:-1 tvg-id="Tv_Nuevo_Tiempo" tvg-logo="http://1.bp.blogspot.com/-CK-PenDun1w/T0JMhKDAo3I/AAAAAAAAH8s/id1lVo-qDW8/s1600/Radio-Nuevo-Tiempo-Logo1.jpg" group-title="Religious",Tv Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Logos_Estudios_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Estudios.jpg" group-title="Religious",Logos_Estudios_Tv
+#EXTINF:-1 tvg-id="Logos_Estudios_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Estudios.jpg" group-title="Religious",Logos Estudios Tv
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
-#EXTINF:-1 tvg-id="Esperanza_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Esperanza_Tv.png" group-title="Religious",Esperanza_Tv
+#EXTINF:-1 tvg-id="Esperanza_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Esperanza_Tv.png" group-title="Religious",Esperanza Tv
 https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8
-#EXTINF:-1 tvg-id="3ABN_Nicaragua" tvg-logo="https://i.ytimg.com/vi/ZrhRiWlbIuI/maxresdefault.jpg" group-title="Religious",3ABN_Nicaragua
+#EXTINF:-1 tvg-id="3ABN_Nicaragua" tvg-logo="https://i.ytimg.com/vi/ZrhRiWlbIuI/maxresdefault.jpg" group-title="Religious",3ABN Nicaragua
 https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-#EXTINF:-1 tvg-id="A&R_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/A&R_Tv.jpg" group-title="Religious",A&R_Tv
+#EXTINF:-1 tvg-id="A&R_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/A&R_Tv.jpg" group-title="Religious",A&R Tv
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 tvg-id="La_Verdad_Presente_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/La_Verdad_Presente_Tv.jpg" group-title="Religious",La_Verdad_Presente_Tv
+#EXTINF:-1 tvg-id="La_Verdad_Presente_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/La_Verdad_Presente_Tv.jpg" group-title="Religious",La Verdad Presente Tv
 https://stream.eleden.com/liveguadalajara/ngrp:liveguadalajara_all/playstream.m3u8
-#EXTINF:-1 tvg-id="UM_Tv" tvg-logo="https://stream.eleden.com/livealsad/ngrp:livealsad_all/playstream.m3u8" group-title="Religious",UM_Tv
+#EXTINF:-1 tvg-id="UM_Tv" tvg-logo="https://stream.eleden.com/livealsad/ngrp:livealsad_all/playstream.m3u8" group-title="Religious",UM Tv
 https://stream.eleden.com/livealsad/ngrp:livealsad_all/playstream.m3u8
-#EXTINF:-1 tvg-id="UM_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/UM_Tv.png" group-title="Religious",UM_Tv
+#EXTINF:-1 tvg-id="UM_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/UM_Tv.png" group-title="Religious",UM Tv
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 tvg-id="LLBN_Tv_Latino" tvg-logo="https://tvlibre.xyz/Logo&Adventista/LLBN_Tv.png" group-title="Religious",LLBN_Tv_Latino
+#EXTINF:-1 tvg-id="LLBN_Tv_Latino" tvg-logo="https://tvlibre.xyz/Logo&Adventista/LLBN_Tv.png" group-title="Religious",LLBN Tv Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
-#EXTINF:-1 tvg-id="Logos_Salud_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Salud_Tv.jpg" group-title="Religious",Logos_Salud_Tv
+#EXTINF:-1 tvg-id="Logos_Salud_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Salud_Tv.jpg" group-title="Religious",Logos Salud Tv
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 tvg-id="El_Evangelio_Eterno_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/el_evangelio_eterno_Tv.jpg" group-title="Religious",El_Evangelio_Eterno_Tv
+#EXTINF:-1 tvg-id="El_Evangelio_Eterno_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/el_evangelio_eterno_Tv.jpg" group-title="Religious",El Evangelio Eterno Tv
 http://libretv.ddnsfree.com:80/live/el-evangelio_Erteno_Web/Live/32.m3u8
-#EXTINF:-1 tvg-id="Hope_Channel" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Hope_Channel.png" group-title="Religious",Hope_Channel
+#EXTINF:-1 tvg-id="Hope_Channel" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Hope_Channel.png" group-title="Religious",Hope Channel
 https://videodelivery.net/75bc18929102141938b334b01793ca3e/manifest/video.m3u8
-#EXTINF:-1 tvg-id="Canal_Vida_Mejor_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Canal_Vida_Mejor_Tv.png" group-title="Religious",Canal_Vida_Mejor_Tv
+#EXTINF:-1 tvg-id="Canal_Vida_Mejor_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Canal_Vida_Mejor_Tv.png" group-title="Religious",Canal Vida Mejor Tv
 https://stream.eleden.com/livemastv/ngrp:livemastv_all/playstream.m3u8
-#EXTINF:-1 tvg-id="Latino_GN_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/GNTV_Latino_Tv.bmp" group-title="Religious",Latino_GN_Tv
+#EXTINF:-1 tvg-id="Latino_GN_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/GNTV_Latino_Tv.bmp" group-title="Religious",Latino GN Tv
 https://stream.eleden.com/livemastv/ngrp:livemastv_all/playstream.m3u8
 #EXTINF:-1 tvg-id="Logos_Kids_Tv" tvg-logo="https://tvlibre.xyz/Logo&Adventista/Logos_Kids_Tv.jpg" group-title="Religious",Logos_Kids_Tv
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
